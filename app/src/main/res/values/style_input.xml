@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="InputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeErrorColor">@color/textError</item>
+        <item name="boxStrokeColor">#2196F3</item>
+        <item name="boxBackgroundColor">@color/white</item>
+        <item name="boxStrokeWidth">1dp</item>
+        <item name="boxStrokeWidthFocused">1dp</item>
+    </style>
+
+    <style name="InputText" parent="Widget.AppCompat.EditText">
+        <item name="android:textAppearance">@style/Body</item>
+        <item name="hintTextAppearance">@style/Body</item>
+    </style>
+
+</resources>

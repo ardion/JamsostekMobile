@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JNM</string>
+
+    <string name="error_blank">Data harus diisi</string>
+    <string name="title_dialog">"Akun tidak ditemukan pastikan email dan password anda benar"</string>
+    <string name="title_ok">"OK"</string>
+
+</resources>
